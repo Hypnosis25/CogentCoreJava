@@ -17,10 +17,4 @@ public class Main {
 		
 		System.out.println(result);
 	}
-	
-	EmployeeService employeeService = new EmployeeService();
-	EmployeeService.getEmployeeById
-	public Employee getEmployeeById(String id) {
-		return employeeRepository.getEmployeeById(id);
-	}
 }
